@@ -1,0 +1,7 @@
+class Ganesh {
+public static void main (String args[])
+{
+System.out.println("This is pramod pawar working on Devops");
+System.out.println("This is sonal mittal trainer from edureka");
+}
+

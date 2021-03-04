@@ -1,0 +1,8 @@
+class pooja
+{
+public static void main(string args[])
+{
+System.out.println("MODIJI WILL BE SUPER HERO FOR OUR NATION");
+}
+
+
